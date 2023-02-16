@@ -21,7 +21,7 @@ We believe that our DHHQA database and proposed FR quality assessment method wil
 Thank you for your attention.
 
 ## Access to the DHHQA database \& Copyright Notice
-**Copyright (c) 2023 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering.
+**Copyright (c) 2023 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering.**
 
 This database contains sensitive information and shall not be distributed, used for commercial purposes or modified without permission. If you wish to use this database, please send an email to zzc1998@sjtu.edu.cn and provide your name and affiliation. By sending an email, you agree to comply with the terms of this license.
 
