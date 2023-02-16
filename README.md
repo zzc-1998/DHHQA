@@ -40,7 +40,6 @@ Violations of this license will be subject to legal sanctions.
 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering reserves the right to modify this license at any time without further notice.
 
 Here is the request email template:
-```
 Dear Sir/Madam,
 
 I am writing to request permission to use the database containing sensitive information maintained by the Institute of Image Communication and Network Engineering at Shanghai Jiao Tong University for my research project. I am fully aware that this database contains sensitive information and cannot be distributed, used for commercial purposes, or modified without permission.
@@ -52,7 +51,7 @@ I understand that the use of this database is subject to certain restrictions an
 Sincerely,
 
 [Your name]
-```
+
 ## Citation
 If you find our paper useful, please cite our work as:
 ```
