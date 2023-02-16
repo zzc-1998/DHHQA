@@ -21,7 +21,7 @@ We believe that our DHHQA database and proposed FR quality assessment method wil
 Thank you for your attention.
 
 ## Access to the DHHQA database \& Copyright Notice
-Copyright (c) 2023 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering.
+**Copyright (c) 2023 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering.
 
 This database contains sensitive information and shall not be distributed, used for commercial purposes or modified without permission. If you wish to use this database, please send an email to zzc1998@sjtu.edu.cn and provide your name and affiliation. By sending an email, you agree to comply with the terms of this license.
 
@@ -41,7 +41,7 @@ Shanghai Jiao Tong University, Institute of Image Communication and Network Engi
 
 Here is the request email template:
 
-Dear Sir/Madam,
+'Dear Sir/Madam,
 
 I am writing to request permission to use the database containing sensitive information maintained by the Institute of Image Communication and Network Engineering at Shanghai Jiao Tong University for my research project. I am fully aware that this database contains sensitive information and cannot be distributed, used for commercial purposes, or modified without permission.
 
@@ -51,7 +51,7 @@ I understand that the use of this database is subject to certain restrictions an
 
 Sincerely,
 
-[Your name]
+[Your name]'
 
 ## Citation
 If you find our paper useful, please cite our work as:
