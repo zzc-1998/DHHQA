@@ -1,4 +1,4 @@
-# Large-Scale Quality Assessment Database for Digital Human Heads
+# Digital Human Heads Quality Assessment Database
 
 We are excited to present our latest research paper proposing a large-scale quality assessment database for digital human heads (DHHs). Our database includes a total of 1,540 DHH models, including 55 high-quality reference stimuli and their corresponding manually degraded versions with 7 types of distortions.
 
@@ -20,3 +20,14 @@ We believe that our DHHQA database and proposed FR quality assessment method wil
 
 Thank you for your attention.
 
+## Citation
+If you find our paper useful, please cite our work as:
+```
+@inproceedings{zhang2023perceptual,
+  title={Perceptual Quality Assessment for Digital Human Heads},
+  author={Zhang, Zicheng and Zhou, Yingjie and Sun, Wei and Min, Xiongkuo and Wu, Yuzhe and Zhai, Guangtao},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2023},
+  organization={IEEE}
+}
+```
