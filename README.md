@@ -47,7 +47,7 @@ Shanghai Jiao Tong University, Institute of Image Communication and Network Engi
 
 >[Your name]
 
-**We will send back a e-mail contains the download link to the database as soon as possible !!!**
+**We will send back a e-mail with the download link to the database as soon as possible !!!**
 
 ## Citation 😸😸😸
 If you find our paper useful, please cite our work as:
