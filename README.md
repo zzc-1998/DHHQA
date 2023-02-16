@@ -3,7 +3,9 @@
 We are excited to present our latest research paper proposing a large-scale quality assessment database for digital human heads (DHHs). Our database includes a total of 1,540 DHH models, including 55 high-quality reference stimuli and their corresponding manually degraded versions with 7 types of distortions.
 
 ![A beautiful sunset](https://github.com/zzc-1998/DHHQA/blob/main/sample.jpg)
-
+<p align="center">
+  <img src="https://github.com/zzc-1998/DHHQA/blob/main/sample.jpg" />
+</p>
 ## Experiment Design
 
 We invited 255 human subjects to participate in the DHH scanning experiment. The reference DHH models, which cover both male and female, young and old subjects, are in the format of textured meshes. We carefully selected 55 high-quality generated DHH models as reference stimuli.
