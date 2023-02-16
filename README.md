@@ -14,7 +14,7 @@ The 7 types of distortions we used to degrade the reference DHHs include surface
 
 A well-controlled subjective experiment was conducted to collect mean opinion scores (MOS) for the distorted DHHs. We obtained the largest subject-rate quality assessment database for digital human heads (DHHQA).
 
-## Access to the DHHQA database \& Copyright Notice ☕☕☕
+## Access to the DHHQA database \& Copyright Notice ☕☕☕ {#access}
 **Copyright (c) 2023 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering.** 🌟🌟🌟
 
 This database contains sensitive information and shall not be distributed, used for commercial purposes or modified without permission. If you wish to use this database, please send an email for request and provide your name and affiliation. By sending an email, you agree to comply with the terms of this license.
@@ -33,7 +33,7 @@ Violations of this license will be subject to legal sanctions.
 
 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering reserves the right to modify this license at any time without further notice.
 
-**Please send your request to zzc1998@sjtu.edu.cn. Here is the request email template: {#access}** ⭐⭐⭐
+**Please send your request to zzc1998@sjtu.edu.cn. Here is the request email template: ** ⭐⭐⭐
 
 >Dear Sir/Madam,
 
