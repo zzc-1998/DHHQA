@@ -10,16 +10,6 @@ The 7 types of distortions we used to degrade the reference DHHs include surface
 
 A well-controlled subjective experiment was conducted to collect mean opinion scores (MOS) for the distorted DHHs. We obtained the largest subject-rate quality assessment database for digital human heads (DHHQA).
 
-## Metrics and Results
-
-We validated several mainstream quality assessment metrics for the benchmark. Furthermore, we designed a deep neural network (DNN) based full-reference (FR) quality assessment method to boost the performance on DHH quality evaluation.
-
-The experimental results show that the proposed method has a better correlation with the subjective ratings and achieves better performance than other quality assessment metrics.
-
-We believe that our DHHQA database and proposed FR quality assessment method will facilitate the development of more accurate and effective digital human head modeling and rendering techniques.
-
-Thank you for your attention.
-
 ## Access to the DHHQA database \& Copyright Notice ☕☕☕
 **Copyright (c) 2023 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering.** 🌟🌟🌟
 
