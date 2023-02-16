@@ -1,9 +1,6 @@
 # Digital Human Heads Quality Assessment Database 🚀🚀🚀
 
-We are excited to present our latest research paper proposing a large-scale quality assessment database for digital human heads (DHHs). Our database includes a total of 1,540 DHH models, including 55 high-quality reference stimuli and their corresponding manually degraded versions with 7 types of distortions. [Access to the database.](#access)
-
-## My Heading {#my-id}
-
+We are excited to present our latest research paper proposing a large-scale quality assessment database for digital human heads (DHHs). Our database includes a total of 1,540 DHH models, including 55 high-quality reference stimuli and their corresponding manually degraded versions with 7 types of distortions. 
 
 <p align="center">
   <img src="https://github.com/zzc-1998/DHHQA/blob/main/sample.jpg" />
@@ -50,7 +47,7 @@ Shanghai Jiao Tong University, Institute of Image Communication and Network Engi
 
 >[Your name]
 
-[跳转到 My Heading 标题](#my-id)
+**We will send back a e-mail contains the download link to the database as soon as possible !!!**
 
 ## Citation 😸😸😸
 If you find our paper useful, please cite our work as:
