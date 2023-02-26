@@ -39,7 +39,7 @@ Shanghai Jiao Tong University, Institute of Image Communication and Network Engi
 
 >I am writing to request permission to use the database containing sensitive information maintained by the Institute of Image Communication and Network Engineering at Shanghai Jiao Tong University for my research project. I am fully aware that this database contains sensitive information and cannot be distributed, used for commercial purposes, or modified without permission.
 
->My name is **[insert your name]** and I am a **[insert your affiliation or academic institution]**. The purpose of my research is [insert a brief description of your research project]. I believe that the use of this database will be essential to my research and would appreciate the opportunity to use it.
+>My name is **[insert your name]** and I am a **[insert your affiliation or academic institution]**. The purpose of my research is **[insert a brief description of your research project]**. I believe that the use of this database will be essential to my research.
 
 >I understand that the use of this database is subject to certain restrictions and I agree to comply with the terms of the license. I will only use this database for personal or internal use and will not use it for any public distribution or commercial purposes. I will not use this database for any illegal or unethical purposes>nor will I modify, crop, convert, edit, reverse-engineer, or otherwise alter it in any form. I also agree to acknowledge the copyright information and include the ?copyright statement in any data, graphics, images, photos, audio, and/or video files used in any publication or product.
 
