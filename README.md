@@ -33,7 +33,7 @@ Violations of this license will be subject to legal sanctions.
 
 Shanghai Jiao Tong University, Institute of Image Communication and Network Engineering reserves the right to modify this license at any time without further notice.
 
-**Please send your request to aokzyj@gmail.com. Here is the request email template: ** ⭐⭐⭐
+**Please send your request to zyj2000@sjtu.edu.cn. Here is the request email template: ** ⭐⭐⭐
 
 >Dear Sir/Madam,
 
